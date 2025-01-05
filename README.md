@@ -1,2 +1,2 @@
-# Travel-Guide
-ik ga een website voor travel guides
+# Travel
+ik ga een website voor travel 
